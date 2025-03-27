@@ -7,6 +7,7 @@
 
 Tools required
 Program
+```
 
 import numpy as np
 import matplotlib.pyplot as plt # Import the matplotlib library and assign it to the alias 'plt'
@@ -71,6 +72,7 @@ plt.grid(True)
 
 plt.tight_layout()
 plt.show()
+```
 
 
 Output Waveform
