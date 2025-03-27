@@ -6,7 +6,7 @@
 
 ### Tools required
 
-    Software: Python with NumPy and Matplotlib libraries
+    Software: Python with NumPy and Matplotlib libraries 
     Hardware: Personal Computer
 
 ### Program
