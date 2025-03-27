@@ -2,11 +2,14 @@
 ## Date:27/03/25
 ### Aim
 
-     Implement and analyze Pulse-Code-Modulation (PCM) using Python colab matplotlib.pyplot as plt
-    import numpy as np
+    To implement and analyze Pulse-Code-Modulation using Python's NumPy and Matplotlib libraries.
 
-Tools required
-Program
+### Tools required
+
+    Software: Python with NumPy and Matplotlib libraries
+    Hardware: Personal Computer
+
+### Program
 ```
 
 import numpy as np
@@ -75,7 +78,8 @@ plt.show()
 ```
 
 
-Output Waveform
+### Output Waveform
 ![image](https://github.com/user-attachments/assets/194eba21-7a7a-4669-96fe-2a733a543c12)
 
-Results
+### Results
+     Pulse-Code-Modulationsignal will be displayed in separate plots. Thus AM is implemented using numPy and Matplotlib.
