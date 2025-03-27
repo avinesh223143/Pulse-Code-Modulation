@@ -76,4 +76,6 @@ plt.show()
 
 
 Output Waveform
+![image](https://github.com/user-attachments/assets/194eba21-7a7a-4669-96fe-2a733a543c12)
+
 Results
