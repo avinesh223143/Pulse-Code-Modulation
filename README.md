@@ -1,5 +1,5 @@
-# Ex03 Pulse-Code-Modulation
-## Date:27/03/25
+# Ex 2a Pulse-Code-Modulation
+## Date:22/03/25
 ### Aim
 
     To implement and analyze Pulse-Code-Modulation using Python's NumPy and Matplotlib libraries.
